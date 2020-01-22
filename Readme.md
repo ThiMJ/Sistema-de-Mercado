@@ -1,4 +1,4 @@
-#Market Initial System
+Market Initial System
 
 This is a simple market system.
 
